@@ -1,0 +1,89 @@
+.wrap {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    text-align: center;
+    line-height: 200px;
+    margin: 20px;
+}
+
+.collapse {
+    color: gold;
+}
+
+.alpha {
+    font-size: 30px;
+}
+
+.beta {
+    border: 3px solid black;
+}
+
+
+
+#text {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 10px;
+
+}
+
+
+#but {
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    margin: 10px;
+}
+
+
+#textF {
+    display: block;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid blue;
+    box-sizing: border-box;
+}
+
+#but2 {
+    width: 200px;
+    height: 30px;
+    margin: 10px;
+    border: 2px solid blue;
+}
+
+
+
+
+
+
+/*example*/
+
+.container {
+    width: 100%;
+    border: 3px solid red;
+    box-sizing: border-box;
+
+}
+
+.container > div {
+    border: 3px solid blue;
+    box-sizing: border-box;
+    margin: 1%;
+ }
+
+.box2 {
+    display: inline-block;
+    width: 25%;
+}
+
+.box3 {
+    display: inline-block;
+    width: 70%;
+}
+
+li {
+
+}
